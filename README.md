@@ -20,4 +20,4 @@ Eine Verbindung könnt ihr über jeden IMAP-fähigen E-Mail-Client und den folge
 
 # Spamfilter testen
 Man kann den Spamfilter testen in dem man einfach ein Text mit zufälligen Zahlen und Zeichen schickt Beispiel:
-  $ XJS*C4JDBQADN1.NSBN3*2IDNEN*GTUBE-STANDARD-ANTI-UBE-TEST-EMAIL*C.34X
+   XJS*C4JDBQADN1.NSBN3*2IDNEN*GTUBE-STANDARD-ANTI-UBE-TEST-EMAIL*C.34X
